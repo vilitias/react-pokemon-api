@@ -1,0 +1,16 @@
+body {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.get-button {
+  /* height: 40px; */
+  border: none;
+  border-radius: 5px;
+  background-color: antiquewhite;
+  color: palevioletred;
+  font-weight: 700;
+  font-size: 30px;
+  padding: 15px;
+}
